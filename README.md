@@ -1,4 +1,4 @@
-👋 Hi, I'm Darius Hogan
+👋 Hi, I'm **Darius Hogan**
 
 🚀 A passionate and skilled Hardware-Accelerated AI Engineer with expertise in designing and implementing high-performance AI solutions.
 
